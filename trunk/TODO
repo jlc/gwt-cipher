@@ -1,0 +1,3 @@
+
+makejar.sh:
+ - do not copy .svn directories in .jar file
