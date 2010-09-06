@@ -1,0 +1,19 @@
+* How to use GWT-Cipher
+------------------------
+
+- generate .jar file using the command ./makejar.sh
+        $ ./makejar.sh
+
+- create a GWT project using the GWT project creation command.
+
+- copy generated net.kernub.gwtcipher.client.jar in your GWT project war/WEB-INF/lib/
+
+- inherite GWT-Cipher in your project_name.gwt.xml:
+        <inherits name='net.kernub.gwtcipher.GWTCipher'/>
+
+* Bugs, feedbacks
+------------------
+
+jeanluc [at] kernub.net
+
+

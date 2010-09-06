@@ -14,3 +14,11 @@
 .GWTCipher_button {
 	margin: 0px 5px 0px 0px;
 }
+
+.GWTCipher_InfoBox_infoHTML {
+	margin: 15px 15px 15px 15px;
+}
+
+.GWTCipher_InfoBox_okButton {
+	width: 100%;
+}
